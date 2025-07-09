@@ -16,10 +16,10 @@ The final output is an interactive dashboard designed for a loan underwriter. It
 
 *Click on an applicant on the left to see their risk drivers update on the right.*
 Link : https://public.tableau.com/app/profile/gurnoor.singh7075/viz/CreditRisk_17520593887090/Dashboard1?publish=yes
+![Tableau Dashboard Preview]
+
 ![image](https://github.com/user-attachments/assets/69f21a59-3f4c-4356-872f-f020ea3c0f1e)
 
-
-![Tableau Dashboard Preview](assets/dashboard_preview.png)
 
 ## Project Highlights
 
